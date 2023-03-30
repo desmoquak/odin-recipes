@@ -1,10 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+
 img {
     height: auto;
     width: 500px;
+    
 }
 
 p   {
-    color: whitesmoke;
-    background-color: black;
+    color: black;
+    background-color: white;
+    text-align: ;
 
 }
