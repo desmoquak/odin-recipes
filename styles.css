@@ -1,3 +1,22 @@
+header {
+    margin-bottom: 4rem;
+    padding: 2rem 0;
+    background-color: hsl(280, 50%, 40%);
+    border-bottom: 4px solid hsl(300, 50%, 50%);
+    color: hsl(300, 50%, 90%);
+}
+header p {
+    color: hsl(300, 50%, 90%);
+    background-color: hsl(280, 50%, 40%);
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    background-color: hsl(0, 0%, 100%);
+    color: hsl(0, 0%, 10%);
+    line-height: 1.5;
+}
 h1 {
     text-align: center;
 }
@@ -14,4 +33,9 @@ p   {
     background-color: white;
     text-align: ;
 
+}
+.content {
+    max-width: 70ch;
+    width: calc(100% - 4rem);
+    margin: 0 auto;
 }
