@@ -3,6 +3,9 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    ont-family: myFirstFont;
+        src: url(sansation_bold.woff);
+        font-weight: bold;
 }
 header {
     margin-bottom: 4rem;
@@ -51,5 +54,8 @@ main {
     margin-bottom: 4rem;
 }
 
-
+@font-face {
+    font-family: ;
+    src: url();
+}
 
