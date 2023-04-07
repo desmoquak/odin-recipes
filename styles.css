@@ -3,8 +3,8 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    ont-family: myFirstFont;
-        src: url(sansation_bold.woff);
+    font-family: 'Albert Sans';
+        
         font-weight: bold;
 }
 header {
