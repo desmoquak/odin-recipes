@@ -5,7 +5,7 @@
     box-sizing: border-box;
     font-family: 'Albert Sans';
         
-        font-weight: bold;
+        font-size: large;
 }
 header {
     margin-bottom: 4rem;
@@ -28,6 +28,8 @@ body {
 }
 h1 {
     text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
 }
 
 
