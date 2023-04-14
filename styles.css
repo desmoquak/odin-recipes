@@ -1,11 +1,10 @@
 /*universal styles*/
 * {
     padding: 10;
-    margin: 0;
+    margin: 1;
     box-sizing: border-box;
     font-family: 'Albert Sans';
-        
-        font-size: large;
+    font-size: large;
 }
 header {
     margin-bottom: 4rem;
